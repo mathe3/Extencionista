@@ -66,4 +66,8 @@
     border-color: var(--cor04); /* Branco */
 }
 
+section{
+    background-image: url("https://static.vecteezy.com/ti/vetor-gratis/p2/1263405-banner-escuro-com-detalhes-de-luz-dourada-em-um-fundo-de-estilo-luxuoso-gratis-vetor.jpg") ;
+    height: 100vh;
+}
 
