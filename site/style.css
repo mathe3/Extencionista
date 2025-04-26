@@ -71,6 +71,9 @@ section h1{
     color: var(--cor05) !important;
     padding-top: 20px;
 }
+section p{
+    
+}
 
 
 #carouselBackground img {
