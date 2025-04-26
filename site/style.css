@@ -101,3 +101,6 @@ section p{
     height: 100%;
     background: rgba(0, 0, 0, 0.5); /* Fundo escuro com 50% de transparência */
 }
+section{
+    margin-bottom: 0;
+}
