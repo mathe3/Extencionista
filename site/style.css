@@ -72,9 +72,6 @@ section h1{
     padding-top: 20px;
 }
 
-section p{
-    font-size: 1.5em !important;
-}
 
 #carouselBackground img {
     width: 100%; /* Garante que a imagem ocupe 100% do container */
